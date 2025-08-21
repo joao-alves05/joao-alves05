@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João Vitor Medeiros Alves
 
-- 🌱 Atualmente estou aprendendo Java e JavaScript (com HTML e CSS)
-- 👯 Estou procurando colaborar em Back-end
+- 🌱 Atualmente estou aprendendo JavaScript (com HTML e CSS)
+- 👯 Estou procurando colaborar tanto em Front-end e Back-end
 
 
 <picture align="center">
