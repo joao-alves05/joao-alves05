@@ -32,12 +32,15 @@ e o sistema entende.
   <img width="48" src="https://skillicons.dev/icons?i=python" />
   <img width="48" src="https://skillicons.dev/icons?i=flask" />
   <img width="48" src="https://skillicons.dev/icons?i=postgresql" />
+  <img width="48" src="https://skillicons.dev/icons?i=mysql" />
+  <img width="48" src="https://skillicons.dev/icons?i=sqlite" />
   <img width="48" src="https://skillicons.dev/icons?i=javascript" />
   <img width="48" src="https://skillicons.dev/icons?i=nodejs" />
   <img width="48" src="https://skillicons.dev/icons?i=expressjs" />
+</p>
+<p>
   <img width="48" src="https://skillicons.dev/icons?i=java" />
-  <img width="48" src="https://skillicons.dev/icons?i=mysql" />
-  <img width="48" src="https://skillicons.dev/icons?i=sqlite" />
+  <img width="48" src="https://skillicons.dev/icons?i=regex" />
   <img width="48" src="https://skillicons.dev/icons?i=html" />
   <img width="48" src="https://skillicons.dev/icons?i=css" />
   <img width="48" src="https://skillicons.dev/icons?i=docker" />
@@ -46,6 +49,7 @@ e o sistema entende.
   <img width="48" src="https://skillicons.dev/icons?i=bash" />
   <img width="48" src="https://skillicons.dev/icons?i=git" />
 </p>
+
 
 ---
 
