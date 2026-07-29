@@ -10,18 +10,20 @@ soluções mais robustas e flexíveis do que as plataformas de automação conve
 
 ### O que eu construo
 
-Atendimento automatizado em WhatsApp que roda 24h, sem menu numerado. O cliente
+Automações de atendimento em WhatsApp que rodam 24h, sem menu numerado. O cliente
 escreve como falaria com uma pessoa — várias linhas, abreviação, erro de digitação —
-e o sistema entende.
+e o fluxo entende, registra e responde.
 
-- **Determinístico primeiro (~90%)** — normalização, fuzzy match e regras resolvem a
-  maior parte dos pedidos sem gastar token nem esperar modelo responder.
-- **IA no fallback (~10%)** — quando a mensagem foge do padrão, aí sim entra o modelo
-  de linguagem.
+- **Determinístico primeiro** — normalização, fuzzy match e regras resolvem a maior
+  parte das mensagens sem gastar token nem esperar modelo responder.
+- **IA quando compensa** — o que foge do padrão vai para modelo de linguagem, local ou
+  em nuvem, escolhido conforme o custo e a latência que o caso aceita.
 - **Infra própria** — serviço de WhatsApp self-hosted em Node.js com Baileys: sessões,
   QR, reconexão e reenvio, em vez de pagar por mensagem em plataforma de terceiro.
-- **Operação visível** — dashboard em tempo real onde o balcão acompanha pedido,
-  tempo de preparo e status da entrega.
+- **Handoff para humano** — quando o bot não deve decidir, a conversa passa para o
+  atendente no Chatwoot com o histórico inteiro junto.
+- **Operação visível** — dashboards em tempo real para acompanhar fila, status e
+  intervir na mão quando precisa.
 
 ---
 
@@ -35,8 +37,8 @@ e o sistema entende.
 
 | Ferramenta | Uso no dia a dia |
 | --- | --- |
-| **Python + Flask** | API de pedidos, cálculo de cardápio, webhooks e autenticação |
-| **PostgreSQL** | Pedidos, clientes, cardápio e histórico de conversa |
+| **Python + Flask** | APIs REST, regras de negócio, webhooks e autenticação |
+| **PostgreSQL** | Clientes, sessões de conversa e dados transacionais |
 | **Node.js + Express** | Serviço de WhatsApp com Baileys — pareamento, sessões e reconexão |
 | **n8n** | Orquestração dos fluxos de atendimento entre WhatsApp, API e IA |
 | **Chatwoot** | Painel dos atendentes humanos, com tema próprio escrito em CSS |
