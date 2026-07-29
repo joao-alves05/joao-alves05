@@ -27,23 +27,25 @@ e o sistema entende.
 
 ### Stack
 
-<img width="45" src="assets/n8n.svg" />
-<img width="45" src="https://skillicons.dev/icons?i=python" />
-<img width="45" src="https://skillicons.dev/icons?i=flask" />
-<img width="45" src="https://skillicons.dev/icons?i=postgresql" />
-<img width="45" src="https://skillicons.dev/icons?i=javascript" />
-<img width="45" src="https://skillicons.dev/icons?i=nodejs" />
-<img width="45" src="https://skillicons.dev/icons?i=expressjs" />
-<img width="45" src="https://skillicons.dev/icons?i=java" />
-<img width="45" src="https://skillicons.dev/icons?i=mysql" />
-<img width="45" src="https://skillicons.dev/icons?i=sqlite" />
-<img width="45" src="https://skillicons.dev/icons?i=html" />
-<img width="45" src="https://skillicons.dev/icons?i=css" />
-<img width="45" src="https://skillicons.dev/icons?i=docker" />
-<img width="45" src="https://skillicons.dev/icons?i=nginx" />
-<img width="45" src="https://skillicons.dev/icons?i=linux" />
-<img width="45" src="https://skillicons.dev/icons?i=bash" />
-<img width="45" src="https://skillicons.dev/icons?i=git" />
+<p>
+  <img width="48" src="assets/n8n.svg" />
+  <img width="48" src="https://skillicons.dev/icons?i=python" />
+  <img width="48" src="https://skillicons.dev/icons?i=flask" />
+  <img width="48" src="https://skillicons.dev/icons?i=postgresql" />
+  <img width="48" src="https://skillicons.dev/icons?i=javascript" />
+  <img width="48" src="https://skillicons.dev/icons?i=nodejs" />
+  <img width="48" src="https://skillicons.dev/icons?i=expressjs" />
+  <img width="48" src="https://skillicons.dev/icons?i=java" />
+  <img width="48" src="https://skillicons.dev/icons?i=mysql" />
+  <img width="48" src="https://skillicons.dev/icons?i=sqlite" />
+  <img width="48" src="https://skillicons.dev/icons?i=html" />
+  <img width="48" src="https://skillicons.dev/icons?i=css" />
+  <img width="48" src="https://skillicons.dev/icons?i=docker" />
+  <img width="48" src="https://skillicons.dev/icons?i=nginx" />
+  <img width="48" src="https://skillicons.dev/icons?i=linux" />
+  <img width="48" src="https://skillicons.dev/icons?i=bash" />
+  <img width="48" src="https://skillicons.dev/icons?i=git" />
+</p>
 
 ---
 
