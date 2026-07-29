@@ -29,7 +29,7 @@ e o fluxo entende, registra e responde.
 
 ### Stack
 
-<img src="assets/stack.svg" alt="n8n, Python, Flask, PostgreSQL, MySQL, SQLite, JavaScript, Node.js, Express, Java, Regex, HTML, CSS, Docker, Nginx, Linux, Bash, Git" width="540" />
+<img src="assets/stack.svg" alt="n8n, Claude, Ollama, Python, Flask, PostgreSQL, MySQL, SQLite, JavaScript, Node.js, Express, Java, Regex, HTML, CSS, Docker, Nginx, Linux, Bash, Git" width="600" />
 
 ---
 
@@ -41,6 +41,7 @@ e o fluxo entende, registra e responde.
 | **PostgreSQL** | Clientes, sessões de conversa e dados transacionais |
 | **Node.js + Express** | Serviço de WhatsApp com Baileys — pareamento, sessões e reconexão |
 | **n8n** | Orquestração dos fluxos de atendimento entre WhatsApp, API e IA |
+| **Claude + Ollama** | Interpretação de linguagem natural — nuvem quando o caso pede qualidade, local quando pede custo zero |
 | **Chatwoot** | Painel dos atendentes humanos, com tema próprio escrito em CSS |
 | **Docker** | Containers do Chatwoot na VPS — operação, logs e troubleshooting |
 | **Nginx** | Proxy reverso e injeção do tema customizado via `sub_filter` |
