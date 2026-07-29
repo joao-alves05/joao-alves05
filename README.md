@@ -27,29 +27,7 @@ e o sistema entende.
 
 ### Stack
 
-<p>
-  <img width="48" src="assets/n8n.svg" />
-  <img width="48" src="https://skillicons.dev/icons?i=python" />
-  <img width="48" src="https://skillicons.dev/icons?i=flask" />
-  <img width="48" src="https://skillicons.dev/icons?i=postgresql" />
-  <img width="48" src="https://skillicons.dev/icons?i=mysql" />
-  <img width="48" src="https://skillicons.dev/icons?i=sqlite" />
-  <img width="48" src="https://skillicons.dev/icons?i=javascript" />
-  <img width="48" src="https://skillicons.dev/icons?i=nodejs" />
-  <img width="48" src="https://skillicons.dev/icons?i=expressjs" />
-</p>
-<p>
-  <img width="48" src="https://skillicons.dev/icons?i=java" />
-  <img width="48" src="https://skillicons.dev/icons?i=regex" />
-  <img width="48" src="https://skillicons.dev/icons?i=html" />
-  <img width="48" src="https://skillicons.dev/icons?i=css" />
-  <img width="48" src="https://skillicons.dev/icons?i=docker" />
-  <img width="48" src="https://skillicons.dev/icons?i=nginx" />
-  <img width="48" src="https://skillicons.dev/icons?i=linux" />
-  <img width="48" src="https://skillicons.dev/icons?i=bash" />
-  <img width="48" src="https://skillicons.dev/icons?i=git" />
-</p>
-
+<img src="assets/stack.svg" alt="n8n, Python, Flask, PostgreSQL, MySQL, SQLite, JavaScript, Node.js, Express, Java, Regex, HTML, CSS, Docker, Nginx, Linux, Bash, Git" width="540" />
 
 ---
 
@@ -65,4 +43,5 @@ e o sistema entende.
 | **Docker** | Containers do Chatwoot na VPS — operação, logs e troubleshooting |
 | **Nginx** | Proxy reverso e injeção do tema customizado via `sub_filter` |
 | **Linux + Bash** | VPS Ubuntu, serviços `systemd`, deploy por SSH e rollback |
+| **Regex** | Parser determinístico — normalização, sinônimos e tolerância a erro de digitação |
 | **Java** | Base de orientação a objetos e estruturas de dados |
