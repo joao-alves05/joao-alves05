@@ -11,5 +11,6 @@ atendimentos que rodam 24h — arquitetura determinística com fallback para IA,
 Chatwoot na orquestração, serviço próprio de WhatsApp em Node.js e dashboard de
 operação em tempo real.
 
-<img height="48" src="assets/n8n.svg" /> <img height="48" src="https://skillicons.dev/icons?i=py,flask,postgres,js,nodejs,express" />
-<img height="48" src="https://skillicons.dev/icons?i=java,mysql,sqlite,html,css,nginx,linux,git" />
+<img height="48" src="assets/n8n.svg" /> <img height="48" src="https://skillicons.dev/icons?i=python,flask,postgresql,javascript,nodejs" />
+<img height="48" src="https://skillicons.dev/icons?i=expressjs,java,mysql,sqlite,html,css" />
+<img height="48" src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,git,vscode" />
