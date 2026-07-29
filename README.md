@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Vitor ✨
+## Olá! Eu sou o João Vitor
 
 **Desenvolvedor Back-end • Automações com IA & APIs**
 
@@ -11,5 +11,5 @@ atendimentos que rodam 24h — arquitetura determinística com fallback para IA,
 Chatwoot na orquestração, serviço próprio de WhatsApp em Node.js e dashboard de
 operação em tempo real.
 
-<img src="https://skillicons.dev/icons?i=py,flask,postgres,js,nodejs,express,java&perline=7" />
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,html,css,nginx,linux,git&perline=7" />
+<img height="48" src="assets/n8n.svg" /> <img height="48" src="https://skillicons.dev/icons?i=py,flask,postgres,js,nodejs,express" />
+<img height="48" src="https://skillicons.dev/icons?i=java,mysql,sqlite,html,css,nginx,linux,git" />
