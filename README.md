@@ -41,6 +41,7 @@ e o fluxo entende, registra e responde.
 | **Python + Flask** | APIs REST, regras de negócio, webhooks e autenticação |
 | **PostgreSQL** | Clientes, sessões de conversa e dados transacionais |
 | **Node.js + Express** | Serviço de WhatsApp com Baileys — pareamento, sessões e reconexão |
+| **WhatsApp Cloud API** | Canal oficial da Meta no fluxo de produção — número verificado e entrega garantida |
 | **n8n** | Orquestração dos fluxos de atendimento entre WhatsApp, API e IA |
 | **Claude + Ollama** | Interpretação de linguagem natural — nuvem quando o caso pede qualidade, local quando pede custo zero |
 | **Chatwoot** | Painel dos atendentes humanos, com tema próprio escrito em CSS |
