@@ -18,8 +18,9 @@ e o fluxo entende, registra e responde.
   parte das mensagens sem gastar token nem esperar modelo responder.
 - **IA quando compensa** — o que foge do padrão vai para modelo de linguagem, local ou
   em nuvem, escolhido conforme o custo e a latência que o caso aceita.
-- **Infra própria** — serviço de WhatsApp self-hosted em Node.js com Baileys: sessões,
-  QR, reconexão e reenvio, em vez de pagar por mensagem em plataforma de terceiro.
+- **Infra própria** — serviço de WhatsApp self-hosted em Node.js com Baileys (sessões,
+  pareamento, reconexão), alternativa às plataformas que cobram por mensagem; produção
+  crítica segue na API oficial da Meta.
 - **Handoff para humano** — quando o bot não deve decidir, a conversa passa para o
   atendente no Chatwoot com o histórico inteiro junto.
 - **Operação visível** — dashboards em tempo real para acompanhar fila, status e
